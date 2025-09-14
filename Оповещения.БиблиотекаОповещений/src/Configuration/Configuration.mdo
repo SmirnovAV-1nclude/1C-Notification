@@ -43,5 +43,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.БО_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.БО_МетодыТелеграм</commonModules>
   <commonModules>CommonModule.КоннекторHTTP</commonModules>
 </mdclass:Configuration>
