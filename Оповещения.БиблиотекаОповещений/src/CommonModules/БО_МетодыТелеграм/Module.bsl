@@ -1,9 +1,4 @@
 
-//@skip-check bsl-legacy-check-static-feature-access-for-unknown-left-part
-//@skip-check doc-comment-ref-link
-//@skip-check doc-comment-collection-item-type
-//@skip-check doc-comment-field-in-description-suggestion
-
 #Область ПрограммныйИнтерфейс
 
 // Параметры взаимодействия.
