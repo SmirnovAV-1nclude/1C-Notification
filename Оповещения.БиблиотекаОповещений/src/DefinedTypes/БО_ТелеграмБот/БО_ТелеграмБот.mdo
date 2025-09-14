@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4ebea0aa-f8af-4a8d-8b49-302dcce61f31">
+  <producedTypes>
+    <containerType typeId="9292803a-c845-430e-bce8-5e10eeb8d9e0" valueTypeId="bb527cae-ed56-4f35-a3d3-91e613a6b988"/>
+  </producedTypes>
+  <name>БО_ТелеграмБот</name>
+  <synonym>
+    <key>ru</key>
+    <value>Телеграм бот</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.БО_ТелеграмБот</types>
+  </type>
+</mdclass:DefinedType>
