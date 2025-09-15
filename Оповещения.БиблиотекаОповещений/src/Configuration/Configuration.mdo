@@ -43,11 +43,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.БО_ОсновнаяРоль</roles>
-  <commonModules>CommonModule.БО_МетодыТелеграм</commonModules>
   <commonModules>CommonModule.БО_РаботаСТелеграм</commonModules>
-  <commonModules>CommonModule.БО_РаботаСТелеграмПереопределяемый</commonModules>
   <commonModules>CommonModule.КоннекторHTTP</commonModules>
-  <definedTypes>DefinedType.БО_ТелеграмБот</definedTypes>
-  <catalogs>Catalog.БО_ТелеграмБот</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
 </mdclass:Configuration>
