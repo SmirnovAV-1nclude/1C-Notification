@@ -9,6 +9,9 @@
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <defaultRunMode>Checked</defaultRunMode>
     <usePurposes>Checked</usePurposes>
+    <managedApplicationModule>Extended</managedApplicationModule>
+    <sessionModule>Extended</sessionModule>
+    <externalConnectionModule>Extended</externalConnectionModule>
     <commandInterface>Extended</commandInterface>
     <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
     <defaultLanguage>Checked</defaultLanguage>
@@ -43,7 +46,10 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.БО_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.БО_ОповещенияССервера</commonModules>
+  <commonModules>CommonModule.БО_ОповещенияССервераКлиент</commonModules>
   <commonModules>CommonModule.БО_РаботаСТелеграм</commonModules>
+  <commonModules>CommonModule.БО_РабототаСКолокольчикомУведомлений</commonModules>
   <commonModules>CommonModule.КоннекторHTTP</commonModules>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
 </mdclass:Configuration>
