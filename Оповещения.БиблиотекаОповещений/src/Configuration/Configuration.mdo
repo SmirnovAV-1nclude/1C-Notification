@@ -49,7 +49,7 @@
   <commonModules>CommonModule.БО_ОповещенияССервера</commonModules>
   <commonModules>CommonModule.БО_ОповещенияССервераКлиент</commonModules>
   <commonModules>CommonModule.БО_РаботаСТелеграм</commonModules>
-  <commonModules>CommonModule.БО_РабототаСКолокольчикомУведомлений</commonModules>
+  <commonModules>CommonModule.БО_РабототаСКолокольчикомУведомленийКлиент</commonModules>
   <commonModules>CommonModule.КоннекторHTTP</commonModules>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
 </mdclass:Configuration>
